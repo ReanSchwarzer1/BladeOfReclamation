@@ -5,16 +5,6 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "AdvancedRPGSystem",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e5dae4ba623f4af69e8a7bd7a153d1b1"
-		},
-		{
-			"Name": "LDAssistant",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/51c5a9a0d5f84beba23aab69bed8d28c"
-		},
-		{
 			"Name": "SunPosition",
 			"Enabled": true
 		},
